@@ -12,7 +12,6 @@ body {
 nav {
   background: -webkit-gradient(linear, left top, left bottom, from(#fffbfb), to(#a7a7a7)) !important;
   background: linear-gradient(#fffbfb, #a7a7a7) !important;
-  font-family: "Amiri", serif;
   border-bottom-left-radius: 25px;
   max-width: 100%;
   border-bottom-right-radius: 25px;
